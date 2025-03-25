@@ -23,8 +23,7 @@ I'm Kiet Le, a Web Developer with 2+ years of experience specializing in React, 
 - 🤝 I’m available for freelancing.
 - 🌱 I’m currently learning Nest.js, AWS
 - 📫 How to reach me: You may text me on [Facebook](https://fb.com/tankietfunny)
-- ⚡ Fun fact: Jack of all trades , Master of None !
-- 📄 About my experiences [Resume](resume.io)
+- 📄 About my experiences [Resume](https://resume.io/r/3tlEIo4oS)
   <br />
 
 <h3 align="center">
