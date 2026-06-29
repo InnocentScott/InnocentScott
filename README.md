@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Tan Kiet Le</h1>
 <p align="center">
-  <b>Front-End Developer</b> · React · Next.js · TypeScript<br/>
+  <b>Full-Stack Developer</b> · React · Next.js · TypeScript<br/>
   Building complex, performant web &amp; mobile UIs — and learning the back-end deeply by shipping my own microservices.
 </p>
 
